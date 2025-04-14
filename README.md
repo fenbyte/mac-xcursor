@@ -16,5 +16,11 @@ i don't have the sanity for that, sorry. maybe if i ever personally have a need 
 ## how to install?
 download the zip from the releases page and put the mac-xcursor folder in ~/.icons. enabling it is dependant on your environment, but it's probably self explanitory
 
-## windows?
+## hyprcursor support?
+official svgs aren't available, so no
+
+## windows support?
 no
+
+## macos support?
+![a picture of a cake with "congration you done it" written in icing](https://files.catbox.moe/8kkms9.png)
