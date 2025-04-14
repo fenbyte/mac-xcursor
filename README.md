@@ -14,7 +14,7 @@ because i'm an idiot and figured it'd be faster to do it manually. i was probabl
 i don't have the sanity for that, sorry. maybe if i ever personally have a need for hidpi versions i'll do it, but right now, no
 
 ## how to install?
-download the zip from the releases page and put the mac-xcursor folder in ~/.icons. enabling it is dependant on your environment, but it's probably self explanitory
+download the zip from the releases page and put the mac-xcursor folder in `~/.icons`. enabling it is dependant on your environment, but it's probably self explanitory
 
 ## hyprcursor support?
 official svgs aren't available, so no
