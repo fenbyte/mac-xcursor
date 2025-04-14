@@ -7,7 +7,7 @@ it's not a remake, it's a port. i'm not using random inaccurate svgs i found onl
 ## how i made it
 i used a mac app called [mousecape](https://github.com/alexzielenski/mousecape/releases) to dump all of the vanilla macos cursor to a gigantic ".cape" file, which is just a renamed xml plist. this file contains every cursor in macos in their original tiff format encoded in base64, along with their x and y hotspots and resolution. i decoded all of the base64 into individual files, sorted through which cursors i did and did not need, converted them to pngs, named them accordingly, and made .cursor files for each with the hotspots that macos uses
 
-## why didn't you script this?
+## why didn't i script this?
 because i'm an idiot and figured it'd be faster to do it manually. i was probably wrong
 
 ## hidpi support?
